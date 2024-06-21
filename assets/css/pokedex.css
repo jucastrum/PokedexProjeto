@@ -146,6 +146,7 @@
     background-color: #9b78dc;
     border: none;
     border-radius: 1rem;
+    cursor: pointer;
 }
 
 @media screen and (min-width: 350px) {

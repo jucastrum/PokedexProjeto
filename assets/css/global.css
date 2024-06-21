@@ -17,7 +17,7 @@ animation: colors calc(100vw * 5) 17s ease infinite;
 }
 
 body .content {
-margin: auto;
+margin: 1.2rem;
 }
 
 .content h1 {
